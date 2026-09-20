@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://uestcers.com">访问网站</a> ·
+  <a href="https://uestcers.com/70">70 周年专题</a> ·
   <a href="https://github.com/lzlz1618/uestcers-app/releases/latest">下载最新版</a> ·
   <a href="INSTALL.md">安装说明</a> ·
   <a href="https://uestcers.com/privacy">隐私政策</a>
@@ -19,14 +20,14 @@
 
 ## 下载
 
-请从本仓库的 [GitHub Releases](https://github.com/lzlz1618/uestcers-app/releases/latest) 下载 `uestcers-1.0.0-1.apk`。
+请从本仓库的 [GitHub Releases](https://github.com/lzlz1618/uestcers-app/releases/latest) 下载 `uestcers-1.2.0-3.apk`。
 
-当前版本：`1.0.0 (1)`
+当前版本：`1.2.0 (3)`
 
 SHA-256：
 
 ```text
-BED5E3D7848CD3FDB98C8965D6BF9BD0A0AF3347AF19D53A21678694593CC4FF
+1C0323B1E3096401ACFECC818A64E762E4C75D2EB1DD989CD16CAC578CAAF57F
 ```
 
 只信任本仓库 Releases 中的安装包。来自网盘、群文件或第三方站点的 APK 可能被修改或重新打包。
@@ -34,6 +35,7 @@ BED5E3D7848CD3FDB98C8965D6BF9BD0A0AF3347AF19D53A21678694593CC4FF
 ## 这个 App 可以做什么
 
 - 申请一个 2–32 位 UESTCers 用户名；
+- 浏览使用五张成都、上海实景照片制作的七秩成电离线相册；
 - 浏览审核通过的成员、公开主页和社区内容；
 - 发布、点赞、评论、回复和关注；
 - 互相关注后使用私信；

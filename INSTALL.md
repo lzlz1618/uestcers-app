@@ -2,12 +2,12 @@
 
 ## 安装前确认
 
-只从 [GitHub Releases](https://github.com/lzlz1618/uestcers-app/releases/latest) 下载 `uestcers-1.0.0-1.apk`。
+只从 [GitHub Releases](https://github.com/lzlz1618/uestcers-app/releases/latest) 下载 `uestcers-1.2.0-3.apk`。
 
 安装包 SHA-256：
 
 ```text
-BED5E3D7848CD3FDB98C8965D6BF9BD0A0AF3347AF19D53A21678694593CC4FF
+1C0323B1E3096401ACFECC818A64E762E4C75D2EB1DD989CD16CAC578CAAF57F
 ```
 
 SHA-256 是文件的数字指纹。如果 APK 来自转发或镜像且指纹不同，请勿安装。
@@ -15,7 +15,7 @@ SHA-256 是文件的数字指纹。如果 APK 来自转发或镜像且指纹不�
 ## 安装步骤
 
 1. 在 Android 手机浏览器打开最新 Release。
-2. 展开 **Assets** 并下载 `uestcers-1.0.0-1.apk`。
+2. 展开 **Assets** 并下载 `uestcers-1.2.0-3.apk`。
 3. 打开下载文件。Android 可能提示当前浏览器或文件管理器无权安装未知应用；只为本次使用的应用开启授权。
 4. 返回安装页面并完成安装。
 5. 安装完成后，可以重新关闭“安装未知应用”权限。
