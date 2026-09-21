@@ -2,12 +2,12 @@
 
 ## 安装前确认
 
-只从 [GitHub Releases](https://github.com/lzlz1618/uestcers-app/releases/latest) 下载 `uestcers-1.2.0-3.apk`。
+只从 [GitHub Releases](https://github.com/lzlz1618/uestcers-app/releases/latest) 下载 `uestcers-1.2.1-4.apk`。
 
 安装包 SHA-256：
 
 ```text
-1C0323B1E3096401ACFECC818A64E762E4C75D2EB1DD989CD16CAC578CAAF57F
+1B9425EEEAE03F94BE4F14F4DE5592A27575F100878ADAF04A2C098B5F772C4D
 ```
 
 SHA-256 是文件的数字指纹。如果 APK 来自转发或镜像且指纹不同，请勿安装。
