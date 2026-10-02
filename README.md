@@ -20,6 +20,8 @@
 
 ## 下载
 
+也可以直接打开 [UESTCers App 下载页](https://uestcers.com/app)，查看版本、安装步骤、二维码与 SHA-256，再点击下载 APK，无需浏览 GitHub 发布列表。
+
 请从本仓库的 [GitHub Releases](https://github.com/lzlz1618/uestcers-app/releases/latest) 下载 `uestcers-1.2.1-4.apk`。
 
 当前版本：`1.2.1 (4)`
@@ -58,11 +60,14 @@ SHA-256：
 
 ## 网站新增入口（2026-10-02）
 
+- **[App 下载](https://uestcers.com/app)**：Android APK、固定版本、校验值、扫码打开和安装说明。
+- **[学校资源导航](https://uestcers.com/resources)**：学校公开校历、地图、学院、图书馆和校友等入口，支持关键词及分类查找。需要学校身份的服务不使用 UESTCers 账号登录。
+
 - **高清名片**：打开自己的公开主页，选择“保存名片”，可下载带主页二维码的 1600×2000 PNG，自行选择展示学院、年份、From 和已启用邮箱。
 - **[申请与邮箱状态](https://uestcers.com/status)**：社区账号登录后查看进度与一次性密码交付；待审核用户仍使用保存的私密申请链接。
 - **[成电记忆](https://uestcers.com/memories)**：登录后分享校园故事和可选高清照片，管理员审核后公开；可按年份、校区筛选，作者可撤回。
 
-这三项目前通过网站浏览器使用，现有 Android `1.2.1 (4)` 安装包未重新编译。网站与 App 原有功能仍共用服务端数据，邮箱依旧在独立 Cloud Mail 中使用。
+这些新增工具目前通过网站浏览器使用，现有 Android `1.2.1 (4)` 安装包未重新编译。网站与 App 原有功能仍共用服务端数据，邮箱依旧在独立 Cloud Mail 中使用。
 
 ## 隐私、安全与反馈
 
